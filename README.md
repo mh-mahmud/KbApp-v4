@@ -1,6 +1,3 @@
-# KbApp-v4
-Karatbars mobile app created with React Native
-
 # 📱 Karatbars Mobile App
 
 A modern and user-friendly **Karatbars Mobile Application** developed using **React Native**. The application provides users with a seamless mobile experience to access Karatbars services, manage their accounts, view product information, and stay updated with the latest offers and business opportunities.
